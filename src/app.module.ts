@@ -18,7 +18,5 @@ const { MYSQL_CONFIG } = getConfig();
     // 用户模块
     UserModule,
   ],
-  controllers: [],
-  providers: [],
 })
 export class AppModule {}
